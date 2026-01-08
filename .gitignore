@@ -26,6 +26,7 @@ version.py
 *.zip
 *.npy
 *.pt
+*.npz
 
 # template
 
